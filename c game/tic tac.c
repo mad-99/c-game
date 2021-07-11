@@ -105,4 +105,5 @@ void drawBoard(){
 	printf("    |	 |	  \n");
 	printf("  %c | %c  | %c  \n",square[7],square[8],square[9]);
 	printf("    |    |	   \n");
+	Printf("");
 }
